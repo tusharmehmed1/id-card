@@ -1,0 +1,6 @@
+{
+  "name": "StepSkill Bangladesh - Professional ID Card Generator",
+  "description": "Professional ID Card Generator tool for StepSkill Bangladesh with ICT Division & DoICT branding, 2-year validity, QR verification, and instant print/PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
